@@ -22,7 +22,7 @@ Clone the Repository
 To get started, clone this repository to your local machine:
 
 
-git clone https://github.com/yourusername/my-next-app.git
+git clone https://github.com/laxmangoud13/Next.js-Greeting-App/tree/master
 Install Dependencies
 Navigate to the project directory and install the required dependencies:
 
